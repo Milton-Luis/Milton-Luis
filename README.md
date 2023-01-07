@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Atualmente trabalhando como professor no CEP
+- 🔭 Atualmente trabalho como professor no CEP
 - 🌱 Estudando Javascript
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
