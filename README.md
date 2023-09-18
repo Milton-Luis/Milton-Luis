@@ -1,10 +1,11 @@
-### Hello there!! 👋
-## Eu sou o Milton
+## Hello there!! 
+### Eu sou o Milton Luís 👋👋
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-lu%C3%ADs-de-carvalho-monteiro-8a436a157)
 
 
 
 - 🔭 Atualmente trabalho como professor no CEP
-- 🌱 Estudando Javascript
+- 🌱 Estudando Typescript e tailwindcss
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
