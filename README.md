@@ -8,11 +8,14 @@
 - 🔭 Atualmente trabalho como professor no CEP
 - 🌱 Estudando Typescript e tailwindcss
 
+
 <div>
-<!--   <a href="https://github.com/Milton-Luis"> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milton-Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> -->
+  <a href="https://github.com/Milton-Luis"> -->
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Milton-Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
 ![Milton Luis Github stats](https://github-readme-stats.vercel.app/api?username=Milton-Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=tokyonight"/>
 </div>
+### Técnologias utilizadas
 
 
