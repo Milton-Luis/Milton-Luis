@@ -9,8 +9,9 @@
 - 🌱 Estudando Typescript e tailwindcss
 
 <section>
-  ![Milton Luís Github stats](https://github-readme-stats.vercel.app/api?username=Milton-Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-  ![Milton luis commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=tokyonight)
+  ![Milton Luis' Github stats](https://github-readme-stats.vercel.app/api?username=Milton-Luis&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+  ![Milton Luis' commits](https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=tokyonight)
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=tokyonight"/>
    
  
 </section>
