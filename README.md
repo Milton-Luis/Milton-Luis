@@ -24,6 +24,7 @@
 ![CSS](https://img.shields.io/badge/CSS3-318cb6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0A0F0D)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Jinja](https://img.shields.io/badge/jinja-fff?style=for-the-badge&logo=jinja&logoColor=black)
 
 ### Frameworks
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=lightgreen)
