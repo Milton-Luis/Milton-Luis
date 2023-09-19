@@ -1,5 +1,5 @@
 ## Hello there!! 
-### <span style="font-family:Papyrus; font-size:4em;">Eu sou o Milton Luís</span> 👋👋
+### Eu sou o Milton Luís👋👋
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/milton-lu%C3%ADs-de-carvalho-monteiro-8a436a157)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Not)
 
@@ -18,10 +18,10 @@
 
 </section>
 <section>
-  ## técnologias utilizadas
+## técnologias utilizadas
   <div>
-    ### Linguagens conhecidas
-     ![Python](https://img.shields.io/badge/Python-0A0F0D?style=for-the-badge&logo=python&logoColor=EB5E28)
+### Linguagens conhecidas
+![Python](https://img.shields.io/badge/Python-0A0F0D?style=for-the-badge&logo=python&logoColor=EB5E28)
   </div>
 </section>
 
