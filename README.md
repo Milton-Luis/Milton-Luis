@@ -16,12 +16,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=tokyonight"/>
 </section>
 
-### Linguagens
+### Backend
 ![Python](https://img.shields.io/badge/Python-0A0F0D?style=for-the-badge&logo=python&logoColor=EB5E28)
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0A0F0D)
-![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### Frontend
+![HTML](https://img.shields.io/badge/HTML5-EB5E28?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-318cb6?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=0A0F0D)
 ![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 
