@@ -4,10 +4,10 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](Not)
 
 
-
-- 🔭 Atualmente trabalho como professor no CEP
+- 🔭 Atualmente professor de informática
 - 🌱 Estudando Typescript e tailwindcss
-  
+- 📜 Aperfeiçoando o conhecimento de Git e Docker
+- 💻 Web dev Fullstack
 
 <section>
   <a href="https://github.com/Milton-Luis/">
@@ -18,9 +18,10 @@
 
 </section>
 <section>
-  ### técnologias utilizadas
+  ## técnologias utilizadas
   <div>
-    
+    ### Linguagens conhecidas
+     ![Python](https://img.shields.io/badge/Python-0A0F0D?style=for-the-badge&logo=python&logoColor=EB5E28)
   </div>
 </section>
 
