@@ -1,11 +1,3 @@
-<style>
-  body{
-    background-image: linear-gradient(100deg, #512e5f, black);
-    /* background-size: cover; */
-  }
-</style>
-<body>
-
 # Hello there, eu sou o Milton Luís👋👋
 
 ## Professor de informática
@@ -45,4 +37,3 @@
   
   ## Projetos
 
-</body>
