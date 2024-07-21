@@ -2,9 +2,11 @@
 # ***Hello there!!!*** Eu sou o Milton Luís👋👋
 
 ## Professor de informática
+
 Atualmente trabalhando como professor de informática em uma escola estadual, passando a frente meus conhecimentos em torno da programação e outros
 
 ## 💻 Web dev Fullstack
+
 Usando python e flask como backend e o basico do frontend para cirar as interfaces (HTML, CSS, JS, bootstrap), mas sempre estudando para me atualizar e melhorar minhas técnicas
 
 ### Contatos 📱💻
@@ -55,7 +57,6 @@ Usando python e flask como backend e o basico do frontend para cirar as interfac
 ![most-used-languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Milton-Luis&layout=compact&langs_count=168&theme=transparent&bg_color=1F1C28&icon_color=E7AF26&border_color=E7AF26&text_color=fff&title_color=E7AF26&)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Milton-Luis&theme=transparent&background=1F1C28&border=E7AF26&dates=fff&ring=E7AF26&fire=E7AF26&sideNums=9700dd&sideLabels=E7AF26&currStreakLabel=E7AF26&currStreakNum=9700dd)](https://git.io/streak-stats)
-
 
 ### ***Principais desáfios e atividades***
 
