@@ -17,9 +17,10 @@ Usando python e flask como backend e o basico do frontend para cirar as interfac
 [![Instagram](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=E7AF26)](Not)
 [![Github](https://img.shields.io/badge/Github-000?style=for-the-badge&logo=github&logoColor=E7AF26)]((https://github.com/Milton-Luis))
   
-### Aprendendo atualmente
+### Aprendendo atualmente e estudando novamente
 
 - **TypeScript**
+- **JavaScript**
 - **Git**
 - **AWS**
 - **Docker**
