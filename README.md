@@ -21,6 +21,7 @@ Usando python e flask como backend e o basico do frontend para cirar as interfac
 
 - **TypeScript**
 - **JavaScript**
+- **TailwindCSS**
 - **Git**
 - **AWS**
 - **Docker**
