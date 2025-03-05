@@ -7,7 +7,7 @@ Atualmente trabalhando como professor de informática em uma escola estadual, pa
 
 ## 💻 Web dev Fullstack
 
-Usando python e flask como backend e o basico do frontend para cirar as interfaces (HTML, CSS, JS, bootstrap), mas sempre estudando para me atualizar e melhorar minhas técnicas
+Usando python e flask como backend e o básico do frontend para criar as interfaces (HTML, CSS, JS, bootstrap, tailwindcss), mas sempre estudando para me atualizar e melhorar minhas técnicas
 
 ### Contatos 📱💻
 
