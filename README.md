@@ -3,11 +3,11 @@
 
 ## Professor de informática
 
-Atualmente trabalhando como professor de informática em uma escola estadual, passando a frente meus conhecimentos em torno da programação e outros
+Atualmente sem dar aula em escolas, mas continuo passando meus conhecimentos a ex-alunos que me pergutam sobre algo
 
 ## 💻 Web dev Fullstack
 
-Usando python e flask como backend e o básico do frontend para criar as interfaces (HTML, CSS, JS, bootstrap, tailwindcss), mas sempre estudando para me atualizar e melhorar minhas técnicas
+Usando python e flask/django como backend e o básico do frontend para criar as interfaces (HTML, CSS, JS, bootstrap, tailwindcss), mas sempre estudando para me atualizar e melhorar minhas técnicas
 
 ### Contatos 📱💻
 
